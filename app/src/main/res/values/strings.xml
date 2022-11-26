@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">B3_04_ComposeProject</string>
+  <string name="main_caption">MainScreen</string>
+  <string name="second_caption">SecondScreen</string>
+  <string name="name">Name</string>
+  <string name="email">Mail</string>
+  <string name="send">Senden</string>
+  <string name="street">Strasse und Hausnummer</string>
+  <string name="city">PLZ und Ort</string>
+  <string name="back">Zurück</string>
+</resources>
